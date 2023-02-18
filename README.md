@@ -122,3 +122,8 @@ FROM all_trips_19Q2_20Q1
 ```
 - for data Visualization (tableau)
 - Import the results to CSV FILE named ***all_trips_v2_19Q2_20Q1*** Optional
+---
+# Data Visualization 
+## I used tablea You review it and give me feedback [Here](https://public.tableau.com/views/CaseStudyCyclisticBikersServices/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+---
+## Many thanks to the Google course instructors and the outstanding data analysts who offer data for practice.
